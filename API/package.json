@@ -2,7 +2,7 @@
   "name": "api", 
   "version": "0.0.1", 
   "description": "NodeJS API", 
-  "main": "server.js", 
+  "main": "./bin/www", 
   "dependencies": { 
     "body-parser": "^1.15.2", 
     "express": "^4.14.0", 
